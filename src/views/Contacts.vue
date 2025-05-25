@@ -7,7 +7,7 @@
     <div class="contact-section">
       <h2 class="text-center">Обо мне</h2>
       <p class="contact-info text-center">
-        Меня зовут [Ваше Имя]. Я разработчик программного обеспечения и создал
+        Меня зовут Гафоров Мустафо Абдулмаджитович. Я разработчик программного обеспечения и создал
         информационную систему для управления данными о дикорастущих растениях
         Республики Таджикистан. Если у вас есть вопросы или предложения,
         свяжитесь со мной через следующие каналы связи:
@@ -21,7 +21,7 @@
         <div class="col-md-6 text-center">
           <p class="contact-info">
             <i class="bi bi-telephone-fill contact-icon"></i>
-            Телефон: <a href="tel:+992123456789">+992 123 45 67 89</a>
+            Телефон: <a href="tel:+992902000436">+992 90 2000 436</a>
           </p>
         </div>
 
@@ -30,7 +30,7 @@
           <p class="contact-info">
             <i class="bi bi-envelope-fill contact-icon"></i>
             Email:
-            <a href="mailto:your.email@example.com">your.email@example.com</a>
+            <a href="mailto:muga200301@gmail.com">muga200301@gmail.com</a>
           </p>
         </div>
 
@@ -39,8 +39,8 @@
           <p class="contact-info">
             <i class="bi bi-github contact-icon"></i>
             GitHub:
-            <a href="https://github.com/yourusername" target="_blank"
-              >github.com/yourusername</a
+            <a href="https://github.com/MustafoGaf" target="_blank"
+              >github.com/MustafoGaforov</a
             >
           </p>
         </div>
@@ -50,8 +50,8 @@
           <p class="contact-info">
             <i class="bi bi-telegram contact-icon"></i>
             Telegram:
-            <a href="https://t.me/yourusername" target="_blank"
-              >@yourusername</a
+            <a href="https://t.me/mustafoGaforov_bot" target="_blank"
+              >MustafoGaforov</a
             >
           </p>
         </div>
@@ -61,8 +61,8 @@
           <p class="contact-info">
             <i class="bi bi-linkedin contact-icon"></i>
             LinkedIn:
-            <a href="https://www.linkedin.com/in/yourusername" target="_blank"
-              >linkedin.com/in/yourusername</a
+            <a href="https://www.linkedin.com/in/" target="_blank"
+              >linkedin.com</a
             >
           </p>
         </div>
@@ -72,8 +72,8 @@
           <p class="contact-info">
             <i class="bi bi-whatsapp contact-icon"></i>
             WhatsApp:
-            <a href="https://wa.me/+992123456789" target="_blank"
-              >+992 123 45 67 89</a
+            <a href="https://wa.me/+992937074030" target="_blank"
+              >+992 937 074 030</a
             >
           </p>
         </div>
