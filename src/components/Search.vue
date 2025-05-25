@@ -8,12 +8,12 @@
     />
     <button class="btn btn-primary" type="button">Поиск</button>
     <div class="rezult_search">
-      <router-link>
-        <div v-for="plant in plants" :key="plant.id" class="plant-item">
+      <div v-for="plant in plants" :key="plant.id" class="plant-item">
+        <router-link :to="'/plant/' + plant.id">
           <img :src="plant.image" :alt="plant.name" class="plant-image" />
           <span class="plant-name">{{ plant.name }}</span>
-        </div>
-      </router-link>
+        </router-link>
+      </div>
     </div>
   </form>
 </template>

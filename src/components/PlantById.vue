@@ -11,7 +11,7 @@
         <!-- Изображение растения -->
         <div class="col-md-4">
           <img
-            src="https://tualatinswcd.org/wp-content/uploads/2022/07/StJohnsWortFlower01Small_TSWCD.png"
+            :src="plant.plant.image"
             alt="Зверобой продырявленный"
             class="plant-image img-fluid rounded-start"
           />
